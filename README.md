@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a project of a game
-- 🌱 I’m currently learning Unity Game Development
-- 👯 I’m looking to collaborate in Open Source Unity projects.
-- 🤔 I’m looking for help with improving my skills.
-- 💬 Feel free to ask almost anything
-- 📫 How to reach me: 70068443@student.uol.edu.pk
--->
+#### 🔭 I’m currently working on a project of a game -->
+#### 🌱 I’m currently learning Unity Game Development
+#### 👯 I’m looking to collaborate in Open Source Unity projects.
+#### 🤔 Improving my skills. Any contribution or help from your side will be appreciated!
+#### 💬 Feel free to ask almost anything.
+#### 📫 How to reach me: 70068443@student.uol.edu.pk
+
