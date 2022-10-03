@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 #### 👯 I’m looking to collaborate in Open Source Unity projects.
 #### 🤔 Improving my skills. Any contribution or help from your side will be appreciated!
 #### 💬 Feel free to ask almost anything.
-#### 📫 How to reach me: 70068443@student.uol.edu.pk
+#### 📫 How to reach me: hamza.saleem87@gmail.com
 
