@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**hamza-saleem/hamza-saleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I am Hamza Saleem. I am a Game Programmer and a Project Manager based in Lahore, Pakistan.
 
-Here are some ideas to get you started:
-
-#### 🔭 I’m currently working on a project of a game -->
-#### 🌱 I’m currently working as a Game Developer at Clash of Dvolper, Lahore, Pakistan.
-#### 👯 I’m looking to collaborate in Open Source Unity projects.
+#### 🔭 I’m working on my portfolio and am a Freelance Gameplay Programmer.
+#### 🌱 I’m currently learning as much as I can about C++.
+#### 👯 I’m looking to collaborate on open-source projects.
 #### 🤔 Improving my skills. Any contribution or help from your side will be appreciated!
 #### 💬 Feel free to ask almost anything.
 #### 📫 How to reach me: hamza.saleem87@gmail.com
