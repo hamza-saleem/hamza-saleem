@@ -26,7 +26,7 @@ Unreal Engine · C++ · C# · Unity · Gameplay Systems · Save Systems
 - 📱 Flutter Developer at S93 Partner (Grounds App)
 - 🎮 Unreal Engine Programmer at Know Buddy Games (Shadow Hills Manor)
 - 🌏 Exploring mobile engineering roles in Tokyo — available July 2026
-- 🇯🇵 Studying Japanese — targeting JLPT N4
+- 🇯🇵 Studying Japanese — targeting JLPT N2
 
 ## Contact
 📧 hamza.saleem87@gmail.com  
